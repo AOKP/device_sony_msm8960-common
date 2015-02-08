@@ -21,4 +21,4 @@ TARGET_SPECIFIC_HEADER_PATH += device/sony/msm8960-common/include
 MALLOC_IMPL := dlmalloc
 
 # RIL
-BOARD_PROVIDES_LIBRIL := true
+#BOARD_PROVIDES_LIBRIL := true
